@@ -19,4 +19,4 @@ function diffArray(arr1, arr2) {
   return newArr
 }
 
-diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5, 5, 6, 7, 8])
+diffArray([1, 2, 3, 5], [1, 2, 3, 4, 5, 5, 6, 7, 8, 19])
