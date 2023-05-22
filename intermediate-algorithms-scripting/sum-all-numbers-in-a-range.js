@@ -12,4 +12,4 @@ function sumAll(arr) {
   return sum
 }
 
-sumAll([12, 3])
+sumAll([12, 1])
