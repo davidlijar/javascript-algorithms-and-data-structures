@@ -29,3 +29,6 @@ function pairElement(str) {
 }
 
 pairElement('GCGAT')
+pairElement('GCG')
+pairElement('ATGT')
+pairElement('CTACG')
